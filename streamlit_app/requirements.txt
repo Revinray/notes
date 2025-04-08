@@ -1,0 +1,9 @@
+streamlit
+pandas
+torch
+faiss-cpu
+sentence-transformers
+transformers
+networkx
+langchain-community
+llama-cpp-python
